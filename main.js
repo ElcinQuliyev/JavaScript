@@ -154,7 +154,7 @@
 //   console.log("Yeniden Daxil ol.!");
 // }
 //.11 Text No:11 switch case sehv haradadir .???
-let week = prompt("Gun Daxil et:(1-7)");
+//let week = prompt("Gun Daxil et:(1-7)");
 // switch (week) {
 //   case 1:
 //     week = "Monday";
