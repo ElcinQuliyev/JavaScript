@@ -153,16 +153,49 @@
 // } else {
 //   console.log("Yeniden Daxil ol.!");
 // }
-//.11 Text No:11
+//.11 Text No:11 switch case sehv haradadir .???
 let week = prompt("Gun Daxil et:(1-7)");
-switch (week) {
-  case 1:
-    week = "Monday";
-    break;
-  case 2:
-    week = "Tuesday";
-    break;
-  case 3:
-    week = "Wednesday";
-}
-console.log("Hefdenin" + " " + week + "Gunu");
+// switch (week) {
+//   case 1:
+//     week = "Monday";
+//     break;
+//   case 2:
+//     week = "Tuesday";
+//     break;
+//   case 3:
+//     week = "Wednesday";
+//     break;
+//   case 3:
+//     week = "Wednesday";
+//     break;
+//   case 3:
+//     week = "Wednesday";
+//     break;
+//   case 3:
+//     week = "Wednesday";
+//     break;
+//   case 3:
+//     week = "Wednesday";
+//     break;
+//   default:
+//     "Yenden Gun  daxil et";
+// }
+// console.log("Hefdenin" + " " + week + "Gunu");
+// if (week == 1) {
+//   console.log("Monday");
+// } else if (week == 2) {
+//   console.log("tuesday");
+// } else if (week == 3) {
+//   console.log("Wednesday");
+// } else if (week == 4) {
+//   console.log("Thursday");
+// } else if (week == 5) {
+//   console.log("Friday");
+// } else if (week == 6) {
+//   console.log("Saturday");
+// } else if (week == 7) {
+//   console.log("Sunday");
+// } else {
+//   console.log("Hefdenin gununu Daxil et:(1-7)");
+// }
+//.12 Test No:12
