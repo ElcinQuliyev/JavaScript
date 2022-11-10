@@ -218,4 +218,14 @@
 // } else {
 //   console.log("Bele ay yoxdur");
 // }
-//.13 Test No:13
+//.13 Test No:13 kodda harda sehv var..??
+// let firstAngel = prompt("Transparent 1 ci bucag");
+// let secondAngel = prompt("Transparent 2 ci bucag");
+// let thirdAngel = prompt("Transparent 3 cu bucaq");
+// let Transparent = firstAngel + secondAngel + thirdAngel;
+// //let Thireparent = 180; islemedi
+// if (Transparent == 180 && firstAngel > 0 && secondAngel > 0 && thirdAngel > 0) {
+//   console.log("Transparent alindi");
+// } else {
+//   console.log("Tranparen alinmadi");
+// }
