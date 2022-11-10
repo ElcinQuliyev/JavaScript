@@ -153,3 +153,16 @@
 // } else {
 //   console.log("Yeniden Daxil ol.!");
 // }
+//.11 Text No:11
+let startDay = prompt("Gun Daxil et:");
+switch (startDay) {
+  case 1:
+    startDay = "Monday";
+    break;
+  case 2:
+    startDay = "Tuesday";
+    break;
+  case 3:
+    startDay = "Wednesday";
+}
+console.log("Hefdenin" + " " + startDay + "Gunu");
