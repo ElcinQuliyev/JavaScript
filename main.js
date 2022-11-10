@@ -198,4 +198,24 @@
 // } else {
 //   console.log("Hefdenin gununu Daxil et:(1-7)");
 // }
-//.12 Test No:12
+//.12 Test No:12 28 ve ya 29 oldugunu nece bilerik .???
+// let month = prompt("12 aydan birini daxil et:");
+
+// if (
+//   month == 1 ||
+//   month == 3 ||
+//   month == 5 ||
+//   month == 7 ||
+//   month == 8 ||
+//   month == 10 ||
+//   month == 12
+// ) {
+//   console.log("31 gun var ");
+// } else if (month == 4 || month == 6 || month == 9 || month == 11) {
+//   console.log("30 gun var");
+// } else if (month == 2) {
+//   console.log("28 ve ya 29 gun var");
+// } else {
+//   console.log("Bele ay yoxdur");
+// }
+//.13 Test No:13
