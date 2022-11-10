@@ -154,15 +154,15 @@
 //   console.log("Yeniden Daxil ol.!");
 // }
 //.11 Text No:11
-let startDay = prompt("Gun Daxil et:");
-switch (startDay) {
+let week = prompt("Gun Daxil et:(1-7)");
+switch (week) {
   case 1:
-    startDay = "Monday";
+    week = "Monday";
     break;
   case 2:
-    startDay = "Tuesday";
+    week = "Tuesday";
     break;
   case 3:
-    startDay = "Wednesday";
+    week = "Wednesday";
 }
-console.log("Hefdenin" + " " + startDay + "Gunu");
+console.log("Hefdenin" + " " + week + "Gunu");
